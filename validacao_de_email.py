@@ -16,7 +16,8 @@ def validar_email(email):
     
 emails = [
     'valido@gmail.com.br',
-    "invalido.com"
+    "invalido.com",
+    "suporte.ti@gmail"
 ]
 
 
